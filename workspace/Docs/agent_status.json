@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-03-28T12:50:13Z",
+  "system_load": "0.0",
+  "agent_count": 1,
+  "agents": [
+    {
+      "name": "boris-dashboard",
+      "status": "Healthy",
+      "last_check_in": "2026-03-28T12:50:13Z",
+      "current_task": "boris-dashboard",
+      "memory": 107016192,
+      "memory_mb": 102,
+      "cpu": 0.3
+    }
+  ]
+}

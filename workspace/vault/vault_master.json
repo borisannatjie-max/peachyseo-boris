@@ -1,0 +1,101 @@
+{
+  "lastUpdated": "2026-03-28T12:25:00+01:00",
+  "index": [
+    {
+      "id": "doc-001",
+      "date": "2026-03-28",
+      "project": "BorisTechStack",
+      "type": "setup",
+      "filename": "2026-03-28_BorisTechStack_Setup.md",
+      "path": "/vault/2026-03-28_BorisTechStack_Setup.md",
+      "version": 1,
+      "status": "active"
+    },
+    {
+      "id": "doc-002",
+      "date": "2026-03-28",
+      "project": "BorisTechStack",
+      "type": "report",
+      "filename": "BorisTechStack_Report.pdf",
+      "path": "/vault/pdfs/BorisTechStack_Report.pdf",
+      "version": 1,
+      "status": "active"
+    },
+    {
+      "id": "doc-003",
+      "date": "2026-03-28",
+      "project": "BorisCore",
+      "type": "soul",
+      "filename": "SOUL.md",
+      "path": "/workspace/SOUL.md",
+      "version": 2,
+      "status": "active",
+      "notes": "v1 backup: SOUL.md.backup-2026-03-28"
+    },
+    {
+      "id": "doc-004",
+      "date": "2026-03-28",
+      "project": "BorisCore",
+      "type": "init_script",
+      "filename": "init_mission_control.sh",
+      "path": "/root/openclaw-dashboard/init_mission_control.sh",
+      "version": 1,
+      "status": "active"
+    },
+    {
+      "id": "doc-005",
+      "date": "2026-03-28",
+      "project": "BorisCore",
+      "type": "skill",
+      "filename": "SYSTEM_HEARTBEAT",
+      "path": "/skills/system-heartbeat/SKILL.md",
+      "version": 1,
+      "status": "active"
+    },
+    {
+      "id": "doc-006",
+      "date": "2026-03-28",
+      "project": "BorisCore",
+      "type": "skill",
+      "filename": "KANBAN_ORCHESTRATOR",
+      "path": "/skills/kanban-orchestrator/SKILL.md",
+      "version": 1,
+      "status": "active"
+    }
+  ],
+  "totalDocuments": 6,
+  "postgres": {
+    "url": "postgres://boris:BorisHeadAgent2026@localhost:5432/boris_team",
+    "tables": ["missions", "agent_pulse", "budget_tracker", "documents"]
+  },
+  "scripts": {
+    "pdfGenerator": "/scripts/pdf-generator.sh",
+    "versionRollback": "/scripts/version-rollback.sh",
+    "autoBackup": "/scripts/auto-backup.sh",
+    "heartbeatPulse": "/scripts/heartbeat_pulse.sh"
+  },
+  "pm2": {
+    "processes": ["boris-dashboard", "boris-heartbeat"],
+    "heartbeatCron": "*/30 * * * *"
+  },
+  "modules": {
+    "thinkLog": {
+      "route": "/api/think-log",
+      "websocket": "ws://localhost:3001",
+      "channel": "agent:think → think:update",
+      "status": "live"
+    },
+    "chatBridge": {
+      "route": "/api/chat",
+      "tagSyntax": "@AgentName",
+      "status": "active"
+    },
+    "oneClickDeploy": {
+      "route": "/api/deploy",
+      "docker": "29.3.0 installed",
+      "nginx": "configured",
+      "ssl": "acme.sh v3.1.3 installed (Let's Encrypt CA) — replaces certbot",
+      "status": "fully operational: Docker + Nginx + SSL via acme.sh"
+    }
+  }
+}

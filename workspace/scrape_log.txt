@@ -1,0 +1,203 @@
+Processing 633 businesses...
+Initializing browser...
+  FOUND: autobotdorset@gmail.com
+  FOUND: ben@bustersmobilegarage.co.uk
+  FOUND: alansaunders.tech@outlook.com
+[5/633] Plus 2 Repairs: plus2repairs.co.uk
+  FOUND: info@plus2repairs.co.uk
+  FOUND: Pjman84@googlemail.com
+  FOUND: tbournemouthandpoolecarrepairs@hotmail.com
+[10/633] Dorset Plumbing: dorsetplumbing.com
+  FOUND: enquiries@shoreplumbingandheating.co.uk
+[15/633] Ultimate Plumbing & Heating Services: ultimateplumbingandheating.co.uk
+  FOUND: info.uphs@gmail.com
+  FOUND: info@365heatingplumbing.co.uk
+  FOUND: hello@plumberly.co.uk
+Progress: 20/633 (emails found: 15)
+  FOUND: info@carlashleyelectricalservices.co.uk
+[25/633] Catt Electrical: cattelectrical.co.uk
+  FOUND: info@sparksjoy.co.uk
+  FOUND: Tim.Collier22@icloud.com
+  FOUND: joe@jjelectricalcontractor.co.uk
+[35/633] Natterjacks Vet: natterjacks.co.uk
+  FOUND: dunbar@lynwoodvets.co.uk
+  FOUND: info@stokewoodvets.co.uk
+[40/633] PureGym Bournemouth: puregym.com/gyms/bournemouth
+Progress: 40/633 (emails found: 24)
+[45/633] Poole Hairdressers: poolehairdressers.co.uk
+[50/633] Diamond Hair & Beauty: diamondhairbeauty.co.uk
+[55/633] Scissors Palace: scissorspalace.co.uk
+[60/633] Milo's Hair & Beauty: miloshairbeauty.co.uk
+Progress: 60/633 (emails found: 24)
+[65/633] Snap Fitness Bournemouth: snapfitness.com/gyms/bournemouth
+[70/633] Elite Fitness Studio: elitefitnessstudio.co.uk
+[75/633] Bournemouth Martial Arts Centre: bournemouthmartialarts.co.uk
+[80/633] Dorset Yoga Studio: dorsetyoga.co.uk
+Progress: 80/633 (emails found: 24)
+[85/633] Poole Dental Studio: pooledentalstudio.co.uk
+[90/633] Winton Dental Practice: wintondental.co.uk
+  FOUND: reception@canfordcliffsdental.co.uk
+[95/633] Talbot Dental: taltaldental.co.uk
+[100/633] Moordown Dental Practice: moordowndental.co.uk
+Progress: 100/633 (emails found: 25)
+  FOUND: info.pooleorthodontics@gmail.com
+[105/633] Southampton Building Contractors: southamptonbuildingcontractors.co.uk
+[110/633] Dorset Home Improvements: dorsethomeimprovements.co.uk
+  FOUND: andybaxter.elite@gmail.com
+[115/633] Pro Build Contractors: probuildcontractors.co.uk
+[120/633] Beacon Construction: beaconconstruction.co.uk
+Progress: 120/633 (emails found: 27)
+[125/633] Delta Building Contractors: deltabuildingcontractors.co.uk
+[130/633] Harbor View Café: harborviewcafe.co.uk
+[135/633] Urban Roast Coffee: urbanroastcoffee.co.uk
+[140/633] The Cliffs Restaurant: thecliffsrestaurant.co.uk
+Progress: 140/633 (emails found: 27)
+[145/633] Ask Italian Bournemouth: askitalian.co.uk/bournemouth
+[150/633] Bournemouth Tandoori: bournemouthtandoori.co.uk
+  FOUND: info@customhousepoole.co.uk
+  FOUND: info@simpsinns.com
+[155/633] The Townhouse Restaurant: townhouserestaurant.co.uk
+[160/633] Poole Fish & Chips: poolefishandchips.co.uk
+Progress: 160/633 (emails found: 29)
+[165/633] The Veterinary Centre: thevetcentre.co.uk
+[170/633] Coastal Veterinary Clinic: coastalvetclinic.co.uk
+[175/633] Bournemouth Dog Grooming: bournemouthdoggrooming.co.uk
+[180/633] Pawsitively Groomed: pawsitivelygroomed.co.uk
+Progress: 180/633 (emails found: 29)
+[185/633] Perfect Paws Grooming: perfectpawsgrooming.co.uk
+[190/633] Puppy Cutz Grooming: puppycutzgrooming.co.uk
+[195/633] Mobile Car Repairs Dorset: mobilecarrepairsdorset.co.uk
+[200/633] Master Mobile Mechanics: mastermobilemechanics.co.uk
+Progress: 200/633 (emails found: 29)
+[205/633] Speedy Car Repairs Mobile: speedycarrepairs.co.uk
+[210/633] AutoAid Mobile Mechanics: autoaidmobile.co.uk
+[215/633] 24/7 Plumber Poole: 247plumberpoole.co.uk
+[220/633] Qualified Plumber Ltd: qualifiedplumber.co.uk
+Progress: 220/633 (emails found: 29)
+[225/633] Premier Plumbing Services: premierplumbingservices.co.uk
+[230/633] Trade Plumber Services: tradeplumberservices.co.uk
+  FOUND: info@emergencyelectrician247.co.uk
+[235/633] Dorset Emergency Electrician: dorsetemergencyelectrician.co.uk
+  FOUND: fast247response@gmail.com
+[240/633] PowerMax Electrical Services: powermaxelectrical.co.uk
+Progress: 240/633 (emails found: 31)
+[245/633] Premier Electrical Solutions: premierelectricalsolutions.co.uk
+[250/633] Poole Electrical Services Ltd: pooleelectricalservicesltd.co.uk
+[255/633] Ladies Hairdressers Bournemouth: ladieshairdressersbournemouth.co.uk
+[260/633] Hair at Home UK: hairathomuk.co.uk
+Progress: 260/633 (emails found: 31)
+[265/633] The London Barber Co: thelondonbarberco.co.uk
+[270/633] Haircraft Unisex Salon: haircraftunisexsalon.co.uk
+[275/633] GymNation Bournemouth: gymnationbournemouth.co.uk
+[280/633] PowerHouse Gym Dorset: powerhousegymdorset.co.uk
+Progress: 280/633 (emails found: 31)
+  FOUND: flexfitnessgym@outlook.com
+[285/633] Dorset Fitness Academy: dorsetfitnessacademy.co.uk
+[290/633] Bournemouth Dental Group: bournemouthdentalgroup.co.uk
+  FOUND: info@pearldentalpractice.co.uk
+[295/633] Fresh Smile Dental: freshsmiledental.co.uk
+[300/633] Dental Health Centre: dentalhealthcentre.co.uk
+Progress: 300/633 (emails found: 33)
+[305/633] Comfort Dental Practice: comfortdentalpractice.co.uk
+[310/633] Premier Build Services: premierbuildservices.co.uk
+[315/633] Home Build Dorset: homebuilddorset.co.uk
+[320/633] Dorset Home Builders: dorsethomebuilders.co.uk
+Progress: 320/633 (emails found: 33)
+  FOUND: hello@custombuildhomes.co.uk
+[325/633] Modern Building Solutions: modernbuildingsolutions.co.uk
+  FOUND: info@urbanconstructionltd.co.uk
+[330/633] Morning Coffee House: morningcoffeehouse.co.uk
+[335/633] The Latte Library: thelattellibrary.co.uk
+[340/633] Café au Lait: cafeaulait.co.uk
+Progress: 340/633 (emails found: 35)
+[345/633] Lakeside Café: lakesidecafepoole.co.uk
+[350/633] Mediterranean Restaurant: mediterraneanrestaurantbournemouth.co.uk
+[355/633] French Restaurant Bournemouth: frenchrestaurantbournemouth.co.uk
+[360/633] Greek Restaurant Bournemouth: greekrestaurantbournemouth.co.uk
+Progress: 360/633 (emails found: 35)
+[365/633] Spanish Tapas Restaurant: spanishtapasrestaurant.co.uk
+[370/633] Pet Vets Clinic: petvetsclinic.co.uk
+[375/633] Trusted Vet Care: trustedvetcare.co.uk
+[380/633] Pet Wellness Centre: petwellnesscentre.co.uk
+Progress: 380/633 (emails found: 35)
+  FOUND: info@alphapet247.vet
+[385/633] Dog Grooming Spa: doggroomingspabournemouth.co.uk
+  FOUND: info@happydoggrooming.co.uk
+[390/633] Furry Friends Grooming: furryfriendsgrooming.co.uk
+[395/633] Professional Dog Grooming: professionaldoggrooming.co.uk
+  FOUND: salon@topdoggrooming.co.uk
+[400/633] Gentle Dog Grooming: gentledoggrooming.co.uk
+Progress: 400/633 (emails found: 38)
+[405/633] Bark Avenue Grooming: barkavenuegrooming.co.uk
+  FOUND: Barkavenuegroominguk@gmail.com
+[410/633] Bourne Groom Dog Grooming: bournegroomdoggrooming.co.uk
+[415/633] Pet Spa & Grooming: petspaandgrooming.co.uk
+[420/633] Happy Tails Dog Grooming: happytailsdoggrooming.co.uk
+  FOUND: kate@happytailsdoggrooming.co.uk
+Progress: 420/633 (emails found: 40)
+[425/633] Mobile Mechanic Service: mobilemechanicservice.co.uk
+[430/633] OnSite Car Repairs: onsitecarrepairs.co.uk
+  FOUND: service@vehiclesolutions.co
+[435/633] Car Service Mobile: carservicemobile.co.uk
+[440/633] Mobile Car Repair Service: mobilecarrepairservice.co.uk
+Progress: 440/633 (emails found: 41)
+[445/633] Drainage Solutions Plumber: drainagesolutionsplumber.co.uk
+[450/633] Kitchen Plumber: kitchenplumber.co.uk
+[455/633] Pipework Specialist: pipeworkspecialist.co.uk
+[460/633] Plumbing Repairs 24/7: plumbingrepairs247.co.uk
+  FOUND: contact@plumbingrepairs247.co.uk
+Progress: 460/633 (emails found: 42)
+[465/633] Rewiring Services: rewiringservices.co.uk
+[470/633] PAT Testing Service: pattestingservice.co.uk
+  FOUND: CONTACT@ELECTRICALFAULTFINDING.CO.UK
+[475/633] Data Cable Installation: datacableinstallation.co.uk
+  FOUND: hello@datacableinstallation.co.uk
+  FOUND: CONTACT@SMOKEALARMINSTALLER.CO.UK
+[480/633] Three Phase Electrician: threephaseelectrician.co.uk
+Progress: 480/633 (emails found: 45)
+[485/633] Hair Flair Studio: hairflairstudio.co.uk
+[490/633] Hair Art Studio: hairartstudio.co.uk
+  FOUND: hastudio74@gmail.com
+[495/633] Hair Crafters Studio: haircraftersstudio.co.uk
+[500/633] Hair Luxe Studio: hairluxestudio.co.uk
+Progress: 500/633 (emails found: 46)
+  FOUND: info@fitness24gym.co.uk
+[505/633] Muscle Gym UK: musclegymuk.co.uk
+[510/633] Ultimate Gym Fitness: ultimategymfitness.co.uk
+[515/633] Lean Fit Gym: leanfitgym.co.uk
+[520/633] Cardio Fitness Gym: cardiofitnessgym.co.uk
+Progress: 520/633 (emails found: 47)
+  FOUND: info@smilecaredental.co.uk
+[525/633] Teeth Care Dental: teethcaredental.co.uk
+[530/633] Perfect Teeth UK: perfectteethuk.co.uk
+[535/633] Dental First UK: dentalfirstuk.co.uk
+[540/633] Construction Expert UK: constructionexpertuk.co.uk
+Progress: 540/633 (emails found: 48)
+[545/633] Construction Expert Co: constructionexpertco.co.uk
+[550/633] Construction Plus: constructionplus.co.uk
+[555/633] BuildRight Construction: buildrightconstruction.co.uk
+[560/633] Daily Grind Café: dailygrindcafe.co.uk
+Progress: 560/633 (emails found: 48)
+[565/633] Coffee House UK: coffeehouseuk.co.uk
+[570/633] Americano Avenue: americanoavenue.co.uk
+[575/633] Café Roma UK: caferoma.uk
+[580/633] Coastal Cuisine Restaurant: coastalcuisinerestaurant.co.uk
+Progress: 580/633 (emails found: 48)
+[585/633] Bayside Restaurant: baysiderestaurant.co.uk
+[590/633] Harbor House Restaurant: harborhouserestaurant.co.uk
+[595/633] VetCare Plus: vetcareplus.co.uk
+[600/633] Dorset Pet Vets: dorsetpetvets.co.uk
+Progress: 600/633 (emails found: 48)
+[605/633] Pet Wellness Vets: petwellnessvets.co.uk
+[610/633] PetAid Vets: petaidvets.co.uk
+[615/633] FurBaby Groomers: furbabygroomers.co.uk
+[620/633] ShinyDog Grooming: shinydoggrooming.co.uk
+Progress: 620/633 (emails found: 48)
+[625/633] DogWash Pro: dogwashpro.co.uk
+  FOUND: hello@dogwashpro.co.uk
+[630/633] DogBeauty Grooming: dogbeautygrooming.co.uk
+
+=== DONE ===
+Total processed: 630
+Emails found: 49
+Output: /root/.openclaw/workspace/peachyseo-coming-soon/Prospect_List_500_with_emails.csv

@@ -1,0 +1,195 @@
+00:03:13 Launching batch 1/14
+00:03:13 Started PID 85009
+01:40:01 Stale lock (PID 85008 gone). Proceeding.
+01:40:01 Launching batch 2/14
+01:40:01 Started PID 87810
+01:40:01 Stale lock (PID 85008 gone). Proceeding.
+01:40:01 Launching batch 2/14
+01:40:01 Started PID 87810
+01:45:01 Stale lock (PID 87809 gone). Proceeding.
+01:45:01 Launching batch 2/14
+01:45:01 Started PID 88025
+01:45:01 Stale lock (PID 87809 gone). Proceeding.
+01:45:01 Launching batch 2/14
+01:45:01 Started PID 88025
+01:50:01 Stale lock (PID 88024 gone). Proceeding.
+01:50:01 Launching batch 2/14
+01:50:02 Started PID 88356
+01:50:01 Stale lock (PID 88024 gone). Proceeding.
+01:50:01 Launching batch 2/14
+01:50:02 Started PID 88356
+01:55:01 Stale lock (PID 88355 gone). Proceeding.
+01:55:01 Launching batch 2/14
+01:55:01 Started PID 88703
+01:55:01 Stale lock (PID 88355 gone). Proceeding.
+01:55:01 Launching batch 2/14
+01:55:01 Started PID 88703
+02:00:01 Stale lock (PID 88702 gone). Proceeding.
+02:00:01 Launching batch 3/14
+02:00:01 Started PID 89080
+02:00:01 Stale lock (PID 88702 gone). Proceeding.
+02:00:01 Launching batch 3/14
+02:00:01 Started PID 89080
+02:05:01 Stale lock (PID 89079 gone). Proceeding.
+02:05:01 Launching batch 3/14
+02:05:01 Started PID 89495
+02:05:01 Stale lock (PID 89079 gone). Proceeding.
+02:05:01 Launching batch 3/14
+02:05:01 Started PID 89495
+02:10:02 Stale lock (PID 89494 gone). Proceeding.
+02:10:02 Launching batch 3/14
+02:10:02 Started PID 89907
+02:10:02 Stale lock (PID 89494 gone). Proceeding.
+02:10:02 Launching batch 3/14
+02:10:02 Started PID 89907
+02:15:01 Stale lock (PID 89906 gone). Proceeding.
+02:15:01 Launching batch 3/14
+02:15:01 Started PID 90308
+02:15:01 Stale lock (PID 89906 gone). Proceeding.
+02:15:01 Launching batch 3/14
+02:15:01 Started PID 90308
+02:20:02 Stale lock (PID 90307 gone). Proceeding.
+02:20:02 Launching batch 3/14
+02:20:02 Started PID 90725
+02:20:02 Stale lock (PID 90307 gone). Proceeding.
+02:20:02 Launching batch 3/14
+02:20:02 Started PID 90725
+02:25:01 Stale lock (PID 90724 gone). Proceeding.
+02:25:01 Launching batch 3/14
+02:25:01 Started PID 91110
+02:25:01 Stale lock (PID 90724 gone). Proceeding.
+02:25:01 Launching batch 3/14
+02:25:01 Started PID 91110
+02:29:11 Stale lock (PID 91109 gone). Proceeding.
+02:29:11 Launching batch 3/14
+02:29:11 Started PID 91423
+02:30:01 Stale lock (PID 91422 gone). Proceeding.
+02:30:01 Launching batch 3/14
+02:30:01 Started PID 91491
+02:30:01 Stale lock (PID 91422 gone). Proceeding.
+02:30:01 Launching batch 3/14
+02:30:01 Started PID 91491
+02:35:02 Stale lock (PID 91490 gone). Proceeding.
+02:35:02 Launching batch 3/14
+02:35:02 Started PID 91875
+02:35:02 Stale lock (PID 91490 gone). Proceeding.
+02:35:02 Launching batch 3/14
+02:35:02 Started PID 91875
+02:40:01 Recent activity 127s ago - batch may still be running, skipping
+02:40:01 1 OCR batch process(es) running - skipping launch
+02:45:01 1 OCR batch process(es) running - skipping launch
+02:50:01 Recent activity 266s ago - batch may still be running, skipping
+02:50:01 1 OCR batch process(es) running - skipping launch
+02:55:02 Recent activity 155s ago - batch may still be running, skipping
+02:55:02 1 OCR batch process(es) running - skipping launch
+03:00:01 Recent activity 89s ago - batch may still be running, skipping
+03:00:01 1 OCR batch process(es) running - skipping launch
+03:05:02 1 OCR batch process(es) running - skipping launch
+03:10:01 Recent activity 56s ago - batch may still be running, skipping
+03:10:01 1 OCR batch process(es) running - skipping launch
+03:15:01 1 OCR batch process(es) running - skipping launch
+03:20:01 Recent activity 201s ago - batch may still be running, skipping
+03:20:01 1 OCR batch process(es) running - skipping launch
+03:25:01 Recent activity 27s ago - batch may still be running, skipping
+03:25:01 1 OCR batch process(es) running - skipping launch
+03:30:01 1 OCR batch process(es) running - skipping launch
+03:35:01 Recent activity 209s ago - batch may still be running, skipping
+03:35:01 1 OCR batch process(es) running - skipping launch
+03:40:01 Recent activity 151s ago - batch may still be running, skipping
+03:40:01 Launching batch 6/14
+03:40:01 Started PID 93795
+03:45:01 Recent activity 25s ago - batch may still be running, skipping
+03:45:02 2 OCR batch process(es) running - skipping launch
+03:50:01 Recent activity 24s ago - batch may still be running, skipping
+03:50:01 2 OCR batch process(es) running - skipping launch
+03:55:01 Recent activity 69s ago - batch may still be running, skipping
+03:55:01 2 OCR batch process(es) running - skipping launch
+04:00:01 Recent activity 8s ago - batch may still be running, skipping
+04:00:01 Launching batch 7/14
+04:00:01 Started PID 94885
+04:05:01 Recent activity 298s ago - batch may still be running, skipping
+04:05:01 1 OCR batch process(es) running - skipping launch
+04:10:02 Recent activity 171s ago - batch may still be running, skipping
+04:10:02 1 OCR batch process(es) running - skipping launch
+04:15:01 Recent activity 20s ago - batch may still be running, skipping
+04:15:01 1 OCR batch process(es) running - skipping launch
+04:20:01 1 OCR batch process(es) running - skipping launch
+04:25:01 Recent activity 195s ago - batch may still be running, skipping
+04:25:01 1 OCR batch process(es) running - skipping launch
+04:30:01 Recent activity 119s ago - batch may still be running, skipping
+04:30:01 Launching batch 8/14
+04:30:01 Started PID 95803
+04:35:01 Recent activity 298s ago - batch may still be running, skipping
+04:35:01 1 OCR batch process(es) running - skipping launch
+04:40:01 Recent activity 155s ago - batch may still be running, skipping
+04:40:01 1 OCR batch process(es) running - skipping launch
+04:45:02 Recent activity 68s ago - batch may still be running, skipping
+04:45:02 1 OCR batch process(es) running - skipping launch
+04:50:01 Recent activity 299s ago - batch may still be running, skipping
+04:50:01 1 OCR batch process(es) running - skipping launch
+04:55:01 Recent activity 274s ago - batch may still be running, skipping
+04:55:02 1 OCR batch process(es) running - skipping launch
+05:00:01 Recent activity 183s ago - batch may still be running, skipping
+05:00:01 Launching batch 9/14
+05:00:01 Started PID 96705
+05:05:01 1 OCR batch process(es) running - skipping launch
+05:10:01 Recent activity 98s ago - batch may still be running, skipping
+05:10:01 1 OCR batch process(es) running - skipping launch
+05:15:01 1 OCR batch process(es) running - skipping launch
+05:20:01 Recent activity 230s ago - batch may still be running, skipping
+05:20:02 1 OCR batch process(es) running - skipping launch
+05:25:01 Recent activity 111s ago - batch may still be running, skipping
+05:25:01 1 OCR batch process(es) running - skipping launch
+05:30:01 Recent activity 42s ago - batch may still be running, skipping
+05:30:01 Launching batch 10/14
+05:30:01 Started PID 98140
+05:35:01 Recent activity 298s ago - batch may still be running, skipping
+05:35:01 1 OCR batch process(es) running - skipping launch
+05:40:01 Recent activity 181s ago - batch may still be running, skipping
+05:40:01 1 OCR batch process(es) running - skipping launch
+05:45:01 Recent activity 195s ago - batch may still be running, skipping
+05:45:01 1 OCR batch process(es) running - skipping launch
+05:50:01 Recent activity 213s ago - batch may still be running, skipping
+05:50:01 1 OCR batch process(es) running - skipping launch
+05:55:01 Recent activity 141s ago - batch may still be running, skipping
+05:55:01 Launching batch 11/14
+05:55:01 Started PID 98940
+06:00:02 1 OCR batch process(es) running - skipping launch
+06:05:01 Recent activity 239s ago - batch may still be running, skipping
+06:05:01 1 OCR batch process(es) running - skipping launch
+06:10:01 Recent activity 5s ago - batch may still be running, skipping
+06:10:01 1 OCR batch process(es) running - skipping launch
+06:15:01 Recent activity 20s ago - batch may still be running, skipping
+06:15:01 Launching batch 12/14
+06:15:01 Started PID 99605
+06:20:01 Recent activity 298s ago - batch may still be running, skipping
+06:20:01 1 OCR batch process(es) running - skipping launch
+06:25:01 Recent activity 243s ago - batch may still be running, skipping
+06:25:01 1 OCR batch process(es) running - skipping launch
+06:30:01 Recent activity 49s ago - batch may still be running, skipping
+06:30:01 1 OCR batch process(es) running - skipping launch
+06:35:01 Recent activity 28s ago - batch may still be running, skipping
+06:35:01 1 OCR batch process(es) running - skipping launch
+06:40:01 1 OCR batch process(es) running - skipping launch
+06:45:01 Recent activity 228s ago - batch may still be running, skipping
+06:45:01 Launching batch 13/14
+06:45:01 Started PID 100713
+06:50:01 Recent activity 298s ago - batch may still be running, skipping
+06:50:01 1 OCR batch process(es) running - skipping launch
+06:55:02 Recent activity 189s ago - batch may still be running, skipping
+06:55:02 1 OCR batch process(es) running - skipping launch
+07:00:01 Recent activity 141s ago - batch may still be running, skipping
+07:00:01 1 OCR batch process(es) running - skipping launch
+07:05:01 Recent activity 39s ago - batch may still be running, skipping
+07:05:01 1 OCR batch process(es) running - skipping launch
+07:10:01 1 OCR batch process(es) running - skipping launch
+07:15:01 Recent activity 149s ago - batch may still be running, skipping
+07:15:01 Launching batch 14/14
+07:15:01 Started PID 101667
+07:20:01 Recent activity 1s ago - batch may still be running, skipping
+07:20:01 1 OCR batch process(es) running - skipping launch
+07:25:01 1 OCR batch process(es) running - skipping launch
+07:30:01 Recent activity 146s ago - batch may still be running, skipping
+07:30:01 1 OCR batch process(es) running - skipping launch
+07:35:01 ALL DONE - sending completion signal
+08:35:01 ALL DONE - sending completion signal

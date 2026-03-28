@@ -1,0 +1,7 @@
+01:55:03 Batch 2/14: pages 101–200 (100 pages)
+01:55:03 Document loaded
+02:03:36   25/100 pages done (513s elapsed)
+02:13:27   50/100 pages done (1104s elapsed)
+02:23:34   75/100 pages done (1711s elapsed)
+02:35:26   100/100 pages done (2424s elapsed)
+02:35:26 Batch 2 complete: 100 pages in 2424s

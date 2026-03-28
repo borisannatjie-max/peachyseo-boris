@@ -1,0 +1,38 @@
+{
+  "columns": {
+    "backlog": {
+      "name": "Backlog",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Initialize team roster",
+          "description": "Add all agents to team_registry.json",
+          "priority": "high",
+          "assignee": "Boris",
+          "created": "2026-03-28"
+        },
+        {
+          "id": 2,
+          "title": "Deploy Kanban Orchestrator skill",
+          "description": "SKILL.md written to skills/kanban-orchestrator/",
+          "priority": "high",
+          "assignee": "Boris",
+          "created": "2026-03-28"
+        }
+      ]
+    },
+    "in_progress": {
+      "name": "In Progress",
+      "tasks": []
+    },
+    "review": {
+      "name": "Review",
+      "tasks": []
+    },
+    "done": {
+      "name": "Done",
+      "tasks": []
+    }
+  },
+  "taskCounter": 2
+}

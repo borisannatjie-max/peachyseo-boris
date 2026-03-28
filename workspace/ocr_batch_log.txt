@@ -1,0 +1,271 @@
+00:24:49 Batch 1/14: pages 1–100 (100 pages)
+00:24:50 Document created
+00:33:53   25/100 pages done (544s elapsed)
+00:47:53   50/100 pages done (1384s elapsed)
+01:00:41   75/100 pages done (2152s elapsed)
+01:11:30   100/100 pages done (2801s elapsed)
+01:11:30 Batch 1 complete: 100 pages in 2801s
+01:37:01 Batch 2/14: pages 101–200 (100 pages)
+01:37:01 Document loaded
+01:40:02 Batch 2/14: pages 101–200 (100 pages)
+01:40:02 Document loaded
+01:45:03 Batch 2/14: pages 101–200 (100 pages)
+01:45:03 Document loaded
+01:45:18   25/100 pages done (498s elapsed)
+01:46:51   25/100 pages done (409s elapsed)
+01:50:04 Batch 2/14: pages 101–200 (100 pages)
+01:50:05 Document loaded
+01:50:53   50/100 pages done (833s elapsed)
+01:51:09   25/100 pages done (366s elapsed)
+01:54:30   50/100 pages done (868s elapsed)
+01:55:03 Batch 2/14: pages 101–200 (100 pages)
+01:55:03 Document loaded
+01:55:48   75/100 pages done (1127s elapsed)
+01:58:44   25/100 pages done (520s elapsed)
+01:59:48   100/100 pages done (1368s elapsed)
+01:59:48 Batch 2 complete: 100 pages in 1368s
+02:00:02 Batch 3/14: pages 201–300 (100 pages)
+02:00:02 Document loaded
+02:00:57   50/100 pages done (954s elapsed)
+02:03:23   75/100 pages done (1401s elapsed)
+02:03:36   25/100 pages done (513s elapsed)
+02:05:05 Batch 3/14: pages 201–300 (100 pages)
+02:05:05 Document loaded
+02:07:33   50/100 pages done (1049s elapsed)
+02:07:52   25/100 pages done (470s elapsed)
+02:09:09   75/100 pages done (1446s elapsed)
+02:10:06 Batch 3/14: pages 201–300 (100 pages)
+02:10:07 Document loaded
+02:11:09   100/100 pages done (1868s elapsed)
+02:11:10 Batch 2 complete: 100 pages in 1868s
+02:13:27   50/100 pages done (1104s elapsed)
+02:14:07   25/100 pages done (542s elapsed)
+02:15:05 Batch 3/14: pages 201–300 (100 pages)
+02:15:05 Document loaded
+02:16:58   75/100 pages done (1614s elapsed)
+02:17:49   100/100 pages done (1966s elapsed)
+02:17:49 Batch 2 complete: 100 pages in 1966s
+02:18:22   50/100 pages done (1100s elapsed)
+02:19:27   25/100 pages done (560s elapsed)
+02:20:07 Batch 3/14: pages 201–300 (100 pages)
+02:20:07 Document loaded
+02:23:34   75/100 pages done (1711s elapsed)
+02:25:03 Batch 3/14: pages 201–300 (100 pages)
+02:25:03 Document loaded
+02:25:10   50/100 pages done (1205s elapsed)
+02:25:30   25/100 pages done (625s elapsed)
+02:26:20   100/100 pages done (2175s elapsed)
+02:26:20 Batch 2 complete: 100 pages in 2175s
+02:29:12 Batch 3/14: pages 201–300 (100 pages)
+02:29:12 Document loaded
+02:30:03 Batch 3/14: pages 201–300 (100 pages)
+02:30:04 Document loaded
+02:32:04   25/100 pages done (717s elapsed)
+02:32:16   50/100 pages done (1330s elapsed)
+02:32:36   75/100 pages done (1954s elapsed)
+02:33:43   25/100 pages done (272s elapsed)
+02:35:05 Batch 3/14: pages 201–300 (100 pages)
+02:35:06 Document loaded
+02:35:26   100/100 pages done (2424s elapsed)
+02:35:26 Batch 2 complete: 100 pages in 2424s
+02:37:54 Batch 4/14: pages 301–400 (100 pages)
+02:37:54 Document loaded
+02:40:01 Recent activity 127s ago - batch may still be running, skipping
+02:40:01 1 OCR batch process(es) running - skipping launch
+02:45:01 1 OCR batch process(es) running - skipping launch
+02:45:35   25/100 pages done (460s elapsed)
+02:50:01 Recent activity 266s ago - batch may still be running, skipping
+02:50:01 1 OCR batch process(es) running - skipping launch
+02:52:27   50/100 pages done (873s elapsed)
+02:55:02 Recent activity 155s ago - batch may still be running, skipping
+02:55:02 1 OCR batch process(es) running - skipping launch
+02:58:32   75/100 pages done (1237s elapsed)
+03:00:01 Recent activity 89s ago - batch may still be running, skipping
+03:00:01 1 OCR batch process(es) running - skipping launch
+03:05:02 1 OCR batch process(es) running - skipping launch
+03:05:45   100/100 pages done (1671s elapsed)
+03:05:45 Batch 4 complete: 100 pages in 1671s
+03:09:05 Batch 5/14: pages 401–500 (100 pages)
+03:09:05 Document loaded
+03:10:01 Recent activity 56s ago - batch may still be running, skipping
+03:10:01 1 OCR batch process(es) running - skipping launch
+03:15:01 1 OCR batch process(es) running - skipping launch
+03:16:40   25/100 pages done (455s elapsed)
+03:20:01 Recent activity 201s ago - batch may still be running, skipping
+03:20:01 1 OCR batch process(es) running - skipping launch
+03:24:34   50/100 pages done (929s elapsed)
+03:25:01 Recent activity 27s ago - batch may still be running, skipping
+03:25:01 1 OCR batch process(es) running - skipping launch
+03:30:01 1 OCR batch process(es) running - skipping launch
+03:31:32   75/100 pages done (1347s elapsed)
+03:35:01 Recent activity 209s ago - batch may still be running, skipping
+03:35:01 1 OCR batch process(es) running - skipping launch
+03:37:30   100/100 pages done (1705s elapsed)
+03:37:30 Batch 5 complete: 100 pages in 1705s
+03:40:01 Recent activity 151s ago - batch may still be running, skipping
+03:40:01 Launching batch 6/14
+03:40:01 Started PID 93795
+03:40:03 Batch 6/14: pages 501–600 (100 pages)
+03:40:03 Document loaded
+03:40:06 Batch 7/14: pages 601–700 (100 pages)
+03:40:06 Document loaded
+03:44:36   25/100 pages done (270s elapsed)
+03:45:01 Recent activity 25s ago - batch may still be running, skipping
+03:45:02 2 OCR batch process(es) running - skipping launch
+03:45:11   25/100 pages done (308s elapsed)
+03:48:58   50/100 pages done (535s elapsed)
+03:49:37   50/100 pages done (571s elapsed)
+03:50:01 Recent activity 24s ago - batch may still be running, skipping
+03:50:01 2 OCR batch process(es) running - skipping launch
+03:53:32   75/100 pages done (806s elapsed)
+03:53:52   75/100 pages done (829s elapsed)
+03:55:01 Recent activity 69s ago - batch may still be running, skipping
+03:55:01 2 OCR batch process(es) running - skipping launch
+03:58:07   100/100 pages done (1081s elapsed)
+03:58:07 Batch 7 complete: 100 pages in 1081s
+03:59:53   100/100 pages done (1190s elapsed)
+03:59:53 Batch 6 complete: 100 pages in 1190s
+04:00:01 Recent activity 8s ago - batch may still be running, skipping
+04:00:01 Launching batch 7/14
+04:00:01 Started PID 94885
+04:00:02 Batch 7/14: pages 601–700 (100 pages)
+04:00:03 Document loaded
+04:05:01 Recent activity 298s ago - batch may still be running, skipping
+04:05:01 1 OCR batch process(es) running - skipping launch
+04:07:11   25/100 pages done (428s elapsed)
+04:10:02 Recent activity 171s ago - batch may still be running, skipping
+04:10:02 1 OCR batch process(es) running - skipping launch
+04:14:41   50/100 pages done (878s elapsed)
+04:15:01 Recent activity 20s ago - batch may still be running, skipping
+04:15:01 1 OCR batch process(es) running - skipping launch
+04:20:01 1 OCR batch process(es) running - skipping launch
+04:21:46   75/100 pages done (1303s elapsed)
+04:25:01 Recent activity 195s ago - batch may still be running, skipping
+04:25:01 1 OCR batch process(es) running - skipping launch
+04:28:02   100/100 pages done (1680s elapsed)
+04:28:02 Batch 7 complete: 100 pages in 1680s
+04:30:01 Recent activity 119s ago - batch may still be running, skipping
+04:30:01 Launching batch 8/14
+04:30:01 Started PID 95803
+04:30:03 Batch 8/14: pages 701–800 (100 pages)
+04:30:03 Document loaded
+04:35:01 Recent activity 298s ago - batch may still be running, skipping
+04:35:01 1 OCR batch process(es) running - skipping launch
+04:37:26   25/100 pages done (444s elapsed)
+04:40:01 Recent activity 155s ago - batch may still be running, skipping
+04:40:01 1 OCR batch process(es) running - skipping launch
+04:43:54   50/100 pages done (831s elapsed)
+04:45:02 Recent activity 68s ago - batch may still be running, skipping
+04:45:02 1 OCR batch process(es) running - skipping launch
+04:50:01 Recent activity 299s ago - batch may still be running, skipping
+04:50:01 1 OCR batch process(es) running - skipping launch
+04:50:27   75/100 pages done (1224s elapsed)
+04:55:01 Recent activity 274s ago - batch may still be running, skipping
+04:55:02 1 OCR batch process(es) running - skipping launch
+04:56:58   100/100 pages done (1616s elapsed)
+04:56:58 Batch 8 complete: 100 pages in 1616s
+05:00:01 Recent activity 183s ago - batch may still be running, skipping
+05:00:01 Launching batch 9/14
+05:00:01 Started PID 96705
+05:00:01 Batch 9/14: pages 801–900 (100 pages)
+05:00:01 Document loaded
+05:05:01 1 OCR batch process(es) running - skipping launch
+05:08:23   25/100 pages done (502s elapsed)
+05:10:01 Recent activity 98s ago - batch may still be running, skipping
+05:10:01 1 OCR batch process(es) running - skipping launch
+05:15:01 1 OCR batch process(es) running - skipping launch
+05:16:11   50/100 pages done (969s elapsed)
+05:20:01 Recent activity 230s ago - batch may still be running, skipping
+05:20:02 1 OCR batch process(es) running - skipping launch
+05:23:10   75/100 pages done (1389s elapsed)
+05:25:01 Recent activity 111s ago - batch may still be running, skipping
+05:25:01 1 OCR batch process(es) running - skipping launch
+05:29:19   100/100 pages done (1757s elapsed)
+05:29:19 Batch 9 complete: 100 pages in 1757s
+05:30:01 Recent activity 42s ago - batch may still be running, skipping
+05:30:01 Launching batch 10/14
+05:30:01 Started PID 98140
+05:30:02 Batch 10/14: pages 901–1000 (100 pages)
+05:30:03 Document loaded
+05:35:01 Recent activity 298s ago - batch may still be running, skipping
+05:35:01 1 OCR batch process(es) running - skipping launch
+05:37:00   25/100 pages done (418s elapsed)
+05:40:01 Recent activity 181s ago - batch may still be running, skipping
+05:40:01 1 OCR batch process(es) running - skipping launch
+05:41:46   50/100 pages done (704s elapsed)
+05:45:01 Recent activity 195s ago - batch may still be running, skipping
+05:45:01 1 OCR batch process(es) running - skipping launch
+05:46:28   75/100 pages done (985s elapsed)
+05:50:01 Recent activity 213s ago - batch may still be running, skipping
+05:50:01 1 OCR batch process(es) running - skipping launch
+05:52:40   100/100 pages done (1357s elapsed)
+05:52:40 Batch 10 complete: 100 pages in 1357s
+05:55:01 Recent activity 141s ago - batch may still be running, skipping
+05:55:01 Launching batch 11/14
+05:55:01 Started PID 98940
+05:55:02 Batch 11/14: pages 1001–1100 (100 pages)
+05:55:02 Document loaded
+06:00:02 1 OCR batch process(es) running - skipping launch
+06:01:02   25/100 pages done (360s elapsed)
+06:05:01 Recent activity 239s ago - batch may still be running, skipping
+06:05:01 1 OCR batch process(es) running - skipping launch
+06:05:51   50/100 pages done (649s elapsed)
+06:09:56   75/100 pages done (894s elapsed)
+06:10:01 Recent activity 5s ago - batch may still be running, skipping
+06:10:01 1 OCR batch process(es) running - skipping launch
+06:14:41   100/100 pages done (1179s elapsed)
+06:14:41 Batch 11 complete: 100 pages in 1179s
+06:15:01 Recent activity 20s ago - batch may still be running, skipping
+06:15:01 Launching batch 12/14
+06:15:01 Started PID 99605
+06:15:02 Batch 12/14: pages 1101–1200 (100 pages)
+06:15:03 Document loaded
+06:20:01 Recent activity 298s ago - batch may still be running, skipping
+06:20:01 1 OCR batch process(es) running - skipping launch
+06:20:58   25/100 pages done (355s elapsed)
+06:25:01 Recent activity 243s ago - batch may still be running, skipping
+06:25:01 1 OCR batch process(es) running - skipping launch
+06:29:12   50/100 pages done (849s elapsed)
+06:30:01 Recent activity 49s ago - batch may still be running, skipping
+06:30:01 1 OCR batch process(es) running - skipping launch
+06:34:33   75/100 pages done (1171s elapsed)
+06:35:01 Recent activity 28s ago - batch may still be running, skipping
+06:35:01 1 OCR batch process(es) running - skipping launch
+06:40:01 1 OCR batch process(es) running - skipping launch
+06:41:13   100/100 pages done (1571s elapsed)
+06:41:13 Batch 12 complete: 100 pages in 1571s
+06:45:01 Recent activity 228s ago - batch may still be running, skipping
+06:45:01 Launching batch 13/14
+06:45:01 Started PID 100713
+06:45:02 Batch 13/14: pages 1201–1300 (100 pages)
+06:45:03 Document loaded
+06:50:01 Recent activity 298s ago - batch may still be running, skipping
+06:50:01 1 OCR batch process(es) running - skipping launch
+06:51:53   25/100 pages done (410s elapsed)
+06:55:02 Recent activity 189s ago - batch may still be running, skipping
+06:55:02 1 OCR batch process(es) running - skipping launch
+06:57:40   50/100 pages done (757s elapsed)
+07:00:01 Recent activity 141s ago - batch may still be running, skipping
+07:00:01 1 OCR batch process(es) running - skipping launch
+07:04:22   75/100 pages done (1159s elapsed)
+07:05:01 Recent activity 39s ago - batch may still be running, skipping
+07:05:01 1 OCR batch process(es) running - skipping launch
+07:10:01 1 OCR batch process(es) running - skipping launch
+07:12:32   100/100 pages done (1650s elapsed)
+07:12:32 Batch 13 complete: 100 pages in 1650s
+07:15:01 Recent activity 149s ago - batch may still be running, skipping
+07:15:01 Launching batch 14/14
+07:15:01 Started PID 101667
+07:15:02 Batch 14/14: pages 1301–1359 (59 pages)
+07:15:03 Document loaded
+07:20:00   25/59 pages done (297s elapsed)
+07:20:01 Recent activity 1s ago - batch may still be running, skipping
+07:20:01 1 OCR batch process(es) running - skipping launch
+07:25:01 1 OCR batch process(es) running - skipping launch
+07:27:35   50/59 pages done (752s elapsed)
+07:30:01 Recent activity 146s ago - batch may still be running, skipping
+07:30:01 1 OCR batch process(es) running - skipping launch
+07:30:28 Batch 14 complete: 59 pages in 926s
+07:30:28 ALL BATCHES DONE
+07:35:01 ALL DONE - sending completion signal
+08:35:01 ALL DONE - sending completion signal

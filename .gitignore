@@ -1,0 +1,42 @@
+# Sensitive files
+*.pem
+*.key
+.env
+.env.*
+credentials.json
+
+# Large files
+*.tar.gz
+*.zip
+*.mp4
+*.mov
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+temp/
+*.tmp

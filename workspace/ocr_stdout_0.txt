@@ -1,0 +1,7 @@
+00:24:49 Batch 1/14: pages 1–100 (100 pages)
+00:24:50 Document created
+00:33:53   25/100 pages done (544s elapsed)
+00:47:53   50/100 pages done (1384s elapsed)
+01:00:41   75/100 pages done (2152s elapsed)
+01:11:30   100/100 pages done (2801s elapsed)
+01:11:30 Batch 1 complete: 100 pages in 2801s
