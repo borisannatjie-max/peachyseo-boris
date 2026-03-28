@@ -94,7 +94,14 @@ The search landscape is changing. We help you get found not just on Google — b
 **Section Headline:**
 Honest Pricing. No Hidden Fees. No Surprises.
 
-### Starter Package - £149/month
+**Starting from £300/month** — All packages include:
+
+- White hat, AI search engine compliant SEO
+- Clear deliverables and great support
+- Modern reporting you can actually understand
+- No crazy contracts
+
+### Starter Package - £300/month
 **Perfect for:** Local businesses just starting with SEO
 
 - Google Business Profile optimization
@@ -102,7 +109,7 @@ Honest Pricing. No Hidden Fees. No Surprises.
 - Monthly keyword ranking report
 - Email support
 
-### Growth Package - £299/month
+### Growth Package - £600/month
 **Perfect for:** Established businesses ready to dominate their market
 
 - Everything in Starter
@@ -112,7 +119,7 @@ Honest Pricing. No Hidden Fees. No Surprises.
 - Competitor analysis
 - Priority support
 
-### Scale Package - £499/month
+### Scale Package - £900/month
 **Perfect for:** Businesses that want the full treatment
 
 - Everything in Growth
@@ -122,16 +129,6 @@ Honest Pricing. No Hidden Fees. No Surprises.
 - Link building campaign
 - Dedicated account manager
 - Weekly reporting calls
-
-### LLMO Add-on - £99/month
-- AI search landscape analysis
-- Structured data & entity optimization
-- FAQ content tailored for AI Overviews
-- Quarterly AI search performance report
-
-### PPC Add-on:
-From £199/month + ad spend
-Google Ads management, ad copy, bid optimization, monthly performance review.
 
 ---
 
